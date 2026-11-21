@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24417504.svg)](https://doi.org/10.5281/zenodo.24417504)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-delay-small-character-correlations). This repository is archived and keeps its releases and DOI.
+
 Can a long excess of inert primes be explained by the primes copying the splitting pattern of a second field? In many actual Yokoi fields the excess is larger than every such correlation, even when the comparison field is chosen after seeing the primes.
 
 Let $`d=m^2+4`$ be squarefree with $`m`$ odd. Fix any $`K>0`$. In every sufficiently large discriminant interval $`(D/2,D]`$ at least $`D^{1/2-o(1)}`$ fields have the following property. Their future Mertens average stays positive for every real start from 2 through
